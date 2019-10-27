@@ -11,7 +11,7 @@ Material design icons is the official [icon set](https://www.google.com/design/s
 
 
 * [Homepage](https://asuikit.com/material-design-icons) - asUIkit Material Icons 1000+
-* [Docs](https://asuikit.com/material-design-icons) - asUIkit Material Icons Guide
+* [Docs](https://asuikit.com/material-design-icons/get-started) - asUIkit Material Icons Guide
 * [Icons](https://asuikit.com/material-design-icons/all-icons) - asUIkit Material Icons Library
 
 ### Using Symbols
